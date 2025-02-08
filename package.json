@@ -1,0 +1,13 @@
+{
+  "name": "fighting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Creature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  }
+}
